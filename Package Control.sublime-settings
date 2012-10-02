@@ -1,0 +1,13 @@
+{
+    "auto_upgrade_last_run": 1349154125,
+    "installed_packages":
+    [
+        "Git",
+        "Package Control",
+        "Pylinter",
+        "sublime-github",
+        "SublimeRope",
+        "Theme - Nexus",
+        "Theme - Soda"
+    ]
+}
